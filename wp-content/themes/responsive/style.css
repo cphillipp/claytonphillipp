@@ -2732,10 +2732,10 @@ h3                									{margin:0; padding:0 0 10px; color:#E3E3E3; font-size
 h4                									{margin:0; padding:0 0 5px; color:#a5d53a; font-size:18px; text-transform:uppercase;}
 ul 													{margin:8px 0 0;}
 #container 											{max-width:100%; padding:0;}
-#header 											{height:100px; border-bottom: 1px solid lightYellow; position:relative;}
+#header 											{height:100px; border-bottom: 1px solid #77a298; position:relative;}
 #logo 												{margin:18px 0 18px 30px;}
 .menu, .menu ul										{float:right; clear:none; margin:27px 30px 0 0; background:none;}
-.menu a 											{margin:0 0.9em; padding:0; height:35px; background:none; border:none; color:lightYellow; text-decoration:none; text-transform:uppercase; text-shadow:none; font-size:15px;}
+.menu a 											{margin:0 0.9em; padding:0; height:35px; background:none; border:none; color:#77a298; text-decoration:none; text-transform:uppercase; text-shadow:none; font-size:15px;}
 .menu a:hover 										{background:none; color:#AFEEEE;}
 .menu .current_page_item a 							{background:none; color:#AFEEEE; border-bottom:1px dashed #AFEEEE;}
 #wrapper 											{margin:50px auto; padding:0 30px; border:none; background:none;}
@@ -2744,8 +2744,8 @@ ul 													{margin:8px 0 0;}
 .widget-wrapper 									{background:#282828; opacity: 0.6; filter: alpha(opacity=60); -moz-opacity: 0.6; border:none;}
 #widgets .tagcloud, #widgets .textwidget			{font-size:115%;}
 .widget-title, .widget-title-home h3 				{color:#FFFFFF; width:250px;}
-a.blue 												{background:#AFEEEE; background-image:none; border:none; color:#454545; text-shadow:none; -moz-border-radius:5px; border-radius:5px; -moz-transition-property:background; -moz-transition-duration:400ms; -webkit-transition-property:background; -webkit-transition-duration:400ms; -o-transition-property:background; -o-transition-duration:400ms; transition-property:background; transition-duration:400ms;}
-a.blue:hover 										{border:none; background:#496464; background-image:none; text-shadow:none; color:#ffffff;}
+a.blue 												{background:#3f6a71; background-image:none; border:none; color:#FFF; text-shadow:none; -moz-border-radius:5px; border-radius:5px; -moz-transition-property:background; -moz-transition-duration:400ms; -webkit-transition-property:background; -webkit-transition-duration:400ms; -o-transition-property:background; -o-transition-duration:400ms; transition-property:background; transition-duration:400ms;}
+a.blue:hover 										{border:none; background:#77a298; background-image:none; text-shadow:none; color:#ffffff;}
 #widgets 											{margin-top:5em;}
 #widgets ul li 										{margin:0; padding:0 1.5em 8px; list-style:none; background:url('images/marker.png') no-repeat 1px 4px;}
 #widgets a.clicker    								{padding:0 10px; width:200px; display:block; color:#ffffff; line-height:28px; background:#496464; text-align:center; text-decoration:none; -moz-border-radius:5px; border-radius:5px; -moz-transition-property:background; -moz-transition-duration:400ms; -webkit-transition-property:background; -webkit-transition-duration:400ms; -o-transition-property:background; -o-transition-duration:400ms; transition-property:background; transition-duration:400ms;}
@@ -2780,7 +2780,7 @@ section ul li a           							{width:auto; height:auto; float:none; text-deco
 section ul li a:hover   							{color:#F9459E; background:none;}
 div.wpcf7-validation-errors 						{border:2px solid #F9459E !important;}
 span.wpcf7-not-valid-tip 							{background:#343434 !important; border:0px solid #F9459E !important; top:-1px !important; color:#F9459E;}
-#footer 											{padding:0 30px; max-width:100%; height:40px; color:#666666; line-height:40px; background:transparent; border-top:1px solid #F9459E; font-size:115%;}
+#footer 											{padding:0 30px; max-width:100%; height:40px; color:#666666; line-height:40px; background:transparent; border-top:1px solid lightYellow; font-size:115%;}
 #footer a 											{color:#AEAEAE;}
 #footer a:hover 									{color:#FFFFE0;}
 #footer .col-940 									{display:none;}
